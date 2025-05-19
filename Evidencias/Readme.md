@@ -1,5 +1,5 @@
 #PROYECTO INTEGRADOR: 
-hr
+
  <br />
     
 # Integrantes
@@ -28,19 +28,20 @@ https://nodejs.org/es/download
  node -v
  npm -v </li> 
   <li> 3) Crear en consola un "Nuevo proyecto en VITE" -  Pasos para crear el proyecto:
-  Ejecutar en terminal:
- npm create vite@latest
-  Ingresar el nombre del proyecto
-  Elegir 
-React
-  Seleccionar 
-JavaScript  SWC
+ -> Ejecutar en terminal:
+ -npm create vite@latest
+ -> Ingresar el nombre del proyecto
+ -> Elegir 
+-React
+ -> Seleccionar 
+-JavaScript  SWC
  Esto generará una estructura base para trabajar con React. </li>
   <li> 4) Tener instalado Tailwind, con VITE -  Seguir la guía oficial: 
 https://tailwindcss.com/docs/installation/using-vit </li>
-  <li> 5) Ejecutar los siguientes comando en una nueva terminal - cd mi-app
- npm install
- npm run dev
+  <li> 5) Ejecutar los siguientes comando en una nueva terminal 
+  -> cd mi-app
+ -> npm install
+ -> npm run dev
  Acceder al proyecto en:
  http://localhost:5173 URL por defecto generada por Vite) </li>
   <li> 6) Descargar el Proyecto de Git Hub ingresando al siguiente link <a href="https://github.com/AllendeNicolas/Proyecto-Integrador-ISPC-2025/tree/main/Evidencias"><strong>Ver Evidencias »</strong</a> </li>
