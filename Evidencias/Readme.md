@@ -1,4 +1,4 @@
-#PROYECTO INTEGRADOR: 
+#PROYECTO INTEGRADOR - Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.: 
 
  <br />
     
@@ -43,7 +43,22 @@ https://tailwindcss.com/docs/installation/using-vit </li>
  -> npm install
  -> npm run dev
  Acceder al proyecto en:
- http://localhost:5173 URL por defecto generada por Vite) </li>
+ http://localhost:5173 (URL por defecto generada por Vite) </li>
   <li> 6) Descargar el Proyecto de Git Hub ingresando al siguiente link <a href="https://github.com/AllendeNicolas/Proyecto-Integrador-ISPC-2025/tree/main/Evidencias"><strong>Ver Evidencias »</strong</a> </li>
   <li> 7) Ejecutar el Archivo en VS Code</li>
 </ul>
+
+<p><strong>NOTA IMPORTANTE: Al ejecutar el Host, y dirigirnos a la página en el navegador, "NO TRADUCIR LA PÁGINA", esto se debe a que, los productos de la API, se encuentran en Inglés, y el buscador, solo filtra, por el nombre original de los productos. Atentos con ese detalle, para que la App, funcione correctamente.</strong></p>
+
+<h3>Estadísticas</h3>
+
+<p>Se agregaron las siguientes estadísticas al proyecto: 
+<ul>
+ <li>Precio total de productos filtrados: Filtra los productos buscados y suma sus respectivos precios</li>
+ <li>Productos totales: Muestra la cantidad de productos que hay disponibles en la App</li> 
+ <li>Producto más caro: Muestra el valor del producto más caro y también de los productos buscados</li>
+ <li>Producto más económico: Muestra el valor del producto más económico y también de los productos buscados</li>
+ <li>Producto con más de 20 caracteres: Muestra aquellos productos, cuya cantidad de caracteres sea mayor a 20</li>
+</ul></p>
+
+
