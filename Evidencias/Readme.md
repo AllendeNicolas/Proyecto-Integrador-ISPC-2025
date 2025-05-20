@@ -14,7 +14,7 @@ Allende Olmedo Nicolás - 35871057
 <hr/>
 <h3><strong> Evidencia 1 y 2</strong></h3>
 
-<p> En el Repositorio encontrará, lo correspondiente a las Evidencia 1  y 2, del espacio Curricular de Proyecto Integrador. En el mismo,se encuantra el Codigo Fuente de la app, desarrollada con React.js, una captura de pantalla, de la app en fucionamineto, y detro de este mismo README, dedescripciones paso a paso, de las intrucciones a seguir, para poder ejecutrar la app.</p>
+<p> En el Repositorio encontrará, lo correspondiente a las Evidencia 1  y 2, del espacio Curricular de Proyecto Integrador. En el mismo,se encuantra el Codigo Fuente de la app, desarrollada con React.js. Una captura de pantalla de la app en fucionamineto, y detro de este mismo README, dedescripciones paso a paso, de las intrucciones a seguir para poder ejecutrar la app.</p>
 
 <h3>Instrucciones para ejecutar proyecto</h3>
 
