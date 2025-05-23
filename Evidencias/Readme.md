@@ -39,13 +39,15 @@ https://nodejs.org/es/download
   <li> 4) Tener instalado Tailwind, con VITE -  Seguir la guía oficial: 
 https://tailwindcss.com/docs/installation/using-vit </li>
   <li> 5) Ejecutar los siguientes comando en una nueva terminal 
-  -> cd mi-app
+  -> cd mi-app 
  -> npm install
  -> npm run dev
  Acceder al proyecto en:
  http://localhost:5173 (URL por defecto generada por Vite) </li>
   <li> 6) Descargar el Proyecto de Git Hub ingresando al siguiente link <a href="https://github.com/AllendeNicolas/Proyecto-Integrador-ISPC-2025/tree/main/Evidencias"><strong>Ver Evidencias »</strong</a> </li>
   <li> 7) Ejecutar el Archivo en VS Code</li>
+  <li> 8) En una nueva terminal, ejecutar los siguientes comandos: 1) cd "Evidencia uno proyecto integrador" - 2) npm run dev - 3) Acceder al proyecto en:
+ http://localhost:5173 (URL por defecto generada por Vite) </li>
 </ul>
 
 <p><strong>NOTA IMPORTANTE: Al ejecutar el Host, y dirigirnos a la página en el navegador, "NO TRADUCIR LA PÁGINA", esto se debe a que, los productos de la API, se encuentran en Inglés, y el buscador, solo filtra, por el nombre original de los productos. Atentos con ese detalle, para que la App, funcione correctamente.</strong></p>
